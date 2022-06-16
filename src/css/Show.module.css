@@ -1,0 +1,35 @@
+.head{
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    height: 170px;
+    width: 200px;
+}
+
+.paginationBttns {
+    width: 80%;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    gap: 10px;
+   
+  }
+  
+  .paginationBttns a {
+    padding: 8px;
+    margin: 5px;
+    color: gray;
+    cursor: pointer;
+    font-size: 12px;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+  }
+  .paginationBttns a:hover {
+    font-weight: bold;
+  }
+  .paginationActive a {
+    color: black;
+    text-decoration: underline;
+  }
+  
+  

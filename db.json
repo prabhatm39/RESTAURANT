@@ -1,0 +1,381 @@
+{
+  "deatils": [
+    {
+      "id": 1,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 1000,
+      "minPrice": 200,
+      "orderTime": 20,
+      "reating": 4.9,
+      "votes": 8200,
+      "reviews": 7520,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "New Indian Cuisine",
+      "imgUrl": "https://loveincorporated.blob.core.windows.net/contentimages/gallery/d9e900e4-212e-4c3d-96d5-cb14a023c659-worlds-most-delicious-dishes.jpg",
+      "menu": "Rice Idli ,Sambhar Vada ,Dahi Vada ",
+      "costForOne": 900,
+      "minPrice": 200,
+      "orderTime": 25,
+      "reating": 4.6,
+      "votes": 4500,
+      "reviews": 2550,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 3,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 800,
+      "minPrice": 180,
+      "orderTime": 30,
+      "reating": 4.5,
+      "votes": 1520,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 4,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 700,
+      "minPrice": 150,
+      "orderTime": 40,
+      "reating": 3.8,
+      "votes": 620,
+      "reviews": 250,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 5,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 600,
+      "minPrice": 100,
+      "orderTime": 30,
+      "reating": 3.5,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 6,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 500,
+      "minPrice": 80,
+      "orderTime": 40,
+      "reating": 2.9,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 7,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 400,
+      "minPrice": 50,
+      "orderTime": 45,
+      "reating": 2.5,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 8,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 300,
+      "minPrice": 40,
+      "orderTime": 30,
+      "reating": 2.1,
+      "votes": 120,
+      "reviews": 50,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 9,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 200,
+      "minPrice": 30,
+      "orderTime": 50,
+      "reating": 1.5,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 10,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 100,
+      "minPrice": 20,
+      "orderTime": 30,
+      "reating": 0.8,
+      "votes": 80,
+      "reviews": 30,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 11,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 80,
+      "minPrice": 10,
+      "orderTime": 10,
+      "reating": 0.5,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 12,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 1200,
+      "minPrice": 250,
+      "orderTime": 20,
+      "reating": 5,
+      "votes": 9820,
+      "reviews": 8750,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 13,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 1100,
+      "minPrice": 220,
+      "orderTime": 30,
+      "reating": 4.8,
+      "votes": 8820,
+      "reviews": 6750,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 14,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 950,
+      "minPrice": 200,
+      "orderTime": 30,
+      "reating": 4.3,
+      "votes": 5020,
+      "reviews": 4550,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 15,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 850,
+      "minPrice": 180,
+      "orderTime": 30,
+      "reating": 3.8,
+      "votes": 3820,
+      "reviews": 1750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 16,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 750,
+      "minPrice": 120,
+      "orderTime": 30,
+      "reating": 3.3,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 17,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 550,
+      "minPrice": 90,
+      "orderTime": 30,
+      "reating": 2.9,
+      "votes": 1820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 18,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 350,
+      "minPrice": 70,
+      "orderTime": 30,
+      "reating": 2.5,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 19,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 150,
+      "minPrice": 60,
+      "orderTime": 30,
+      "reating": 1.5,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 20,
+      "name": "Hollywood Café",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "menu": "Paneer Butter Masala, Mushroom Masala, Malai Kofta",
+      "costForOne": 120,
+      "minPrice": 50,
+      "orderTime": 30,
+      "reating": 1.1,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "name": "Prabhat",
+      "categories": "food",
+      "imgURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIUAxwMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAAIDBAYHAf/EAD0QAAIBAwMCBAMECgEDBQEAAAECAwAEEQUSITFBBhNRYRQicTKBkaEHFSNCUrHB0eHw8TNDYiVygqKyJP/EABoBAAIDAQEAAAAAAAAAAAAAAAMEAQIFAAb/xAAsEQACAgEEAQIFAwUAAAAAAAABAgADEQQSITFBEyIUMlFhoSOxwQVxgZHw/9oADAMBAAIRAxEAPwDpmr3nwGnXN2QD5MZbB6VxX9JOoT3t1avPLDLCV/ZyLHtKH+E4PI/vXcb22S5tpYJhujkQqw9iK4lrHgTVvjhatte1VwVnDdR9PWg2lgwx1NPRpp3osV/m8QDot64ZSh/bRtkfj0+tdn0TU21Wzh1G2Km9gASdP419vf8AzXHfGfhybw5cQXkW/wCGlwuR1VuuD+FXPBfieXStRS4BYWspCyru561ZTg58TIdcGdA8c+J5oxp19bfPp0geJ42J/ZzA8hsd+v51L4b8drNstgrMzhsIzFgpHOQT268fSm69awW98t06LNoWsBUuVI4jlx8j/QjI/wCKmttA0Pw6pNvbeZdMMjDElR9T0BpW8smWDYm9otRRbQKbK8kdEfzCMms3ku5LmCKaFhhkIwcVfsLS3axHwA8uMg5ToR6jFDbfUbK6BRJo43HVJBz9KsW1/HZSNiVQh6jrzSNGqKt+ocgy1+lVhhFwZa03RzbXRuHlkd8/KGbhfuqp4y0i81a3t0synmRucmR8KB9MHdyB6",
+      "paymentMethods": "Accepts Online payment only",
+      "totalVotes": "2",
+      "reviews": "3",
+      "rating": "4",
+      "costforone": "34",
+      "id": 21
+    },
+    {
+      "name": "Prabhat Mishra",
+      "menu": "bfd ergreg",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "payment_methods": "Accepts Online payment only",
+      "votes": "23",
+      "reviews": "23",
+      "reating": "3",
+      "costForOne": "432",
+      "minPrice": "231",
+      "orderTime": "30",
+      "id": 22
+    },
+    {
+      "name": "Prabhat Mishra",
+      "menu": "bfd ergreg",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/d4/83/3f/fast-food-restaurant.jpg",
+      "payment_methods": "Accepts Online payment only",
+      "votes": "234",
+      "reviews": "34",
+      "reating": "324",
+      "costForOne": "23",
+      "minPrice": "334",
+      "orderTime": "34",
+      "id": 23
+    }
+  ]
+}
